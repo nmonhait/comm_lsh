@@ -1,0 +1,47 @@
+---
+title: "Posit Team for Life Sciences & Healthcare"
+format: html
+editor: visual
+---
+
+![](RStudio%20Team%20Overview%20-%20Shared/images/posit.png)
+
+**Posit Team**: A modular platform of Posit's three professional products for **scaling** data science analytic work, **sharing** data products with your key stakeholders, and **managing** R and Python packages within your environment.
+
+Posit Team includes Posit Workbench, Posit Connect, and Posit Package Manager.
+
+-   **Posit Workbench** is a professional development environment used to perform analyses and create data products using R or Python. Available editors include the RStudio IDE, Jupyter Notebooks, JupyterLab, and VS Code.
+
+-   **Posit Connect** is a professional publishing platform and execution engine used to internally host the data products your teams create in R and Python; connecting the data products you create to the end users who need to see them. Share Quarto, Shiny, R Markdown, Plumber APIs, Jupyter Notebooks, Dash, Flask, Streamlit, Bokeh, and FastAPIs in one convenient place.
+
+-   **Posit Package Manager** is a professional solution to organize and centralize R and Python packages across the enterprise for increased governance and reproducibility.
+
+![](RStudio%20Team%20Overview%20-%20Shared/images/RS_Concept_Map.jpg)
+
+## Posit Team in Action (Python-focused)
+
+[![](https://embed-ssl.wistia.com/deliveries/f9d48d76fd0580319fc2d8bccd72f1c2eac62bdf.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=4287c7e0)](https://www.rstudio.com/conference/2022/talks/develop-deploy-python-rstudio/?wvideo=xjzs3ut7sr)
+
+[rstudio::conf 2022 Talks - Yes, you can use Python with RStudio Team! - RStudio](https://www.rstudio.com/conference/2022/talks/develop-deploy-python-rstudio/?wvideo=xjzs3ut7sr)
+
+## Resources for Users and Admin *to update*
+
+| User Documentation                                                                                                                           | Admin Documentation                                                                |
+|-----------------------------------------|-------------------------------|
+| [Building a Business Case](https://posit.co/champions/business-case/)                                                                        | [Requirements](https://docs.rstudio.com/requirements/)                             |
+| [Working with IT](https://posit.co/champions/working-with-it/)                                                                               | [Reference Architectures](https://solutions.rstudio.com/production/architectures/) |
+| [Using Python with Posit](https://solutions.rstudio.com/python/overview/)                                                                    | [Authentication](https://solutions.rstudio.com/sys-admin/auth/)                    |
+| [Quarto](https://quarto.org/)                                                                                                                | [Product Integrations](https://solutions.rstudio.com/sys-admin/integrations/)      |
+| [Managing Packages for Open Source Data Science](https://www.rstudio.com/resources/webinars/managing-packages-for-open-source-data-science/) | [All Documentation](https://docs.rstudio.com/)                                     |
+
+------------------------------------------------------------------------
+
+## Connect With Your RStudio Account Executive
+
+![](RStudio%20Team%20Overview%20-%20Shared/images/IMG_6693.JPG){fig-align="center" width="300"}
+
+Nichole Monhait, Sr. Account Executive:
+
+[nichole\@posit.co](mailto:nichole@rstudio.com){.email}
+
+224-213-0463
